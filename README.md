@@ -1,16 +1,26 @@
-# sampleapp
+# Flutter REST API Demo App
 
-A new Flutter project.
+This is a **Flutter sample application** that demonstrates how to connect with a REST API using the [Dio](https://pub.dev/packages/dio) package.  
+It includes basic CRUD operations (Create, Read, Update, Delete) and Firebase Analytics integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Fetch all objects from API
+- Fetch objects by ID(s)
+- Create new objects
+- Update existing objects
+- Partially update objects
+- Delete objects
+- Log screen views using Firebase Analytics
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- [Flutter](https://flutter.dev/) (Dart SDK)
+- [Dio](https://pub.dev/packages/dio) (for API calls)
+- [Firebase Analytics](https://pub.dev/packages/firebase_analytics)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Project Structure
