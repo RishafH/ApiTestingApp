@@ -29,3 +29,15 @@ lib/
 ├── theme/ # App theme (cards, colors, typography)
 └── main.dart # Entry point
 ## 📂 Project Structure
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/my-flutter-app.git
+cd my-flutter-app
+flutter pub get
+flutter run
+
