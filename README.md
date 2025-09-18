@@ -22,5 +22,10 @@ It includes basic CRUD operations (Create, Read, Update, Delete) and Firebase An
 - [Firebase Analytics](https://pub.dev/packages/firebase_analytics)
 
 ---
-
+lib/
+├── models/ # Data models (e.g., ObjectModel)
+├── services/ # API service (Dio client)
+├── pages/ # UI pages (ObjectsPage, SampleAnalysicPage, etc.)
+├── theme/ # App theme (cards, colors, typography)
+└── main.dart # Entry point
 ## 📂 Project Structure
